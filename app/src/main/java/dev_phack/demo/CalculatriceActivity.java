@@ -13,7 +13,6 @@ public class CalculatriceActivity extends AppCompatActivity {
     TextView calcul;
     boolean isNewOp = true;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
